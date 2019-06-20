@@ -1,0 +1,38 @@
+package jsonparser;
+public class Toppings_Data {
+	  static int  COUNT_PEPPERONI  = 0 ;
+	  static int  COUNT_BACON  = 0 ;
+	  static int  COUNT_MUSHROOM  = 0 ;
+	  static int  COUNT_SAUSAGE  = 0 ;  
+	  static int  COUNT_FOUR_CHEESE  = 0 ;
+	  static int  COUNT_BEEF  = 0 ;
+	  static int  COUNT_JALAPENO  = 0 ;
+	  static int  COUNT_BLACK_OLIVES  = 0 ;
+	  static int  COUNT_MOZA  = 0 ;
+	  static int  COUNT_ALREDO_SAUCE = 0 ;
+	 static int  COUNT_GARLIC = 0 ;
+	  static int  ONIONS = 0 ;
+	 static int  COUNT_ITALIAN_SAUSAGE= 0 ;
+	 static int  COUNT_DICE_WHITE_ONIONS = 0 ;
+	 static int  COUNT_CANDIAN_BACON = 0 ;
+	 static int  COUNT_CHICKEN = 0 ;
+	 static int  COUNT_HAM = 0 ;
+	 static int  COUNT_GREEN_PEPPERS= 0 ;
+	 static int  COUNT_ANCHOVIES = 0 ;
+	 static int  COUNT_ROASTED_PEPPER = 0 ;
+	 static int  COUNT_REFRIED_BEANS = 0 ;
+	 static int  COUNT_CHEDAR_CHEESE= 0 ;
+	 static int  COUNT_PARMESAN_PASLEY = 0 ;
+	 static int  COUNT_DICED_TOMATOEs = 0 ;
+	 static int  COUNT_RED_ONIONS = 0 ;
+	 static int  COUNT_GIANTS_PEPPERONI = 0 ;
+     static int  COUNT_FETA_CHEESE = 0 ;
+	 static int  COUNT_SLICED_BREADED_CHICKEN = 0 ;
+	 static int  COUNT_ROSA_PEPPERONI = 0 ;
+	 static int  COUNT_SHEDDAR_CHEESE = 0 ;
+	 static int  COUNT_PINEAPPLE= 0 ;
+	 static int  COUNT_ARTICKOKES = 0 ;
+	 static int  COUNT_SLICE_ROMATOES = 0 ;
+	 static int  COUNT_GARLIC_BASIL_OIL = 0 ;
+	 static int  COUNT_ONIONS= 0 ;
+}
